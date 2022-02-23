@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AtteluParadisana : MonoBehaviour {
 
@@ -12,6 +13,8 @@ public class AtteluParadisana : MonoBehaviour {
 	public GameObject BiksesPNG2;
 	public GameObject LadePNG1;
 	public GameObject LadePNG2;
+	public GameObject mainigaisAttels;
+	public Sprite[] atteluMasivs;
 
 	public void CepuresPNGparadisana (bool vertiba){
 		CepuresPNG.SetActive (vertiba);
@@ -38,3 +41,4 @@ public class AtteluParadisana : MonoBehaviour {
 		LadePNG2.SetActive (vertiba);
 	}
 }
+
