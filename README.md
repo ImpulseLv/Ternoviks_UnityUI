@@ -9,6 +9,7 @@ Spēle
 - [x] Toggle elements
 - [x] Image elements
 - [ ] Slider elements
-- [ ] Audio source elements
-- [ ] Drop down elements
+- [x] Audio source elements
+- [x] Drop down elements
 - [ ] C# skriptu izveide
+- [ ] Drag elements
