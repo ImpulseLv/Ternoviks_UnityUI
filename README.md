@@ -11,5 +11,5 @@ Spēle
 - [x] Slider elements
 - [x] Audio source elements
 - [x] Drop down elements
-- [ ] C# skriptu izveide
-- [ ] Drag elements
+- [x] C# skriptu izveide
+- [x] Drag elements
